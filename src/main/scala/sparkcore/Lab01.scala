@@ -5,6 +5,8 @@ import org.apache.spark.sql.SparkSession
 
 object Lab01 {
   
+  
+  //commit into git
   def main(args:Array[String])=
   {
      val lst = Array(1,2,3,4,5,6,(7,8))
