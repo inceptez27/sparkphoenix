@@ -3,6 +3,7 @@ package structurestreaming
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 //comments added
+
 object Lab02_socketsource {
   
   def main(args:Array[String])=
